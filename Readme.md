@@ -8,7 +8,7 @@
 
 ---
 
-### [Live Preview Here 😯🚀](https://frontendfunn.github.io/bootstrap-v5-sidebar-navigation/)
+### [Live Preview Here 😯🚀](https://frontendfunn.github.io/bootstrap-5-sidebar-navigation-menu/)
 
 ![Preview](./repoImages/preview.gif)
 
