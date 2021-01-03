@@ -1,4 +1,4 @@
-## 🥳 Boostrap v5 Sidebar Navigation
+## 🥳 Boostrap v5 Responsive Mobile Navigation
 
 ---
 
