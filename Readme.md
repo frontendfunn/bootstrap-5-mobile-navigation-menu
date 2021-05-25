@@ -8,6 +8,8 @@
 
 ---
 
+### [right sidebar](https://github.com/frontendfunn/bootstrap-5-mobile-navigation-menu/tree/right-side-menu)
+
 ### [Live Preview Here 😯🚀](https://frontendfunn.github.io/bootstrap-5-mobile-navigation-menu/)
 
 ![Preview](./repoImages/preview.gif)
