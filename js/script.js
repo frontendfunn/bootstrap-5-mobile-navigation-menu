@@ -5,7 +5,7 @@ const toggler = mainNavigation.querySelector(".navbar-toggler");
 const openSideNav = () => mainNavigation.classList.add("active");
 const closeSideNav = () => mainNavigation.classList.remove("active");
 
-document.addEventListener("swiped-right", openSideNav);
-document.addEventListener("swiped-left", closeSideNav);
+document.addEventListener("swiped-left", openSideNav);
+document.addEventListener("swiped-right", closeSideNav);
 toggler.addEventListener("click", openSideNav);
 overlay.addEventListener("click", closeSideNav);

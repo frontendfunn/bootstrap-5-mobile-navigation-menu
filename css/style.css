@@ -12,6 +12,7 @@
   overflow-y: auto;
   z-index: 1032;
 }
+
 .overlay {
   left: 0;
   right: 0;
@@ -48,4 +49,15 @@
 .main-heading {
   position: relative;
   z-index: 100;
+}
+
+/* right sidebar code */
+.sidebar.right-sidebar {
+  right: -100%;
+  left: auto;
+}
+
+.main-navigation.active .right-sidebar {
+  right: 0;
+  left: auto;
 }
